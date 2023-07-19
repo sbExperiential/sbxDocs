@@ -7,3 +7,4 @@
 
 ## Settings
     dmXCommand - Location of the DMX Json file. dmxOn and dmxOff the json objects that are looped over to trigger DMX..
+    [Sample DMX Files](dmxCommands.json)
