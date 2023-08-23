@@ -7,7 +7,7 @@ Z-Cam Controller for the SBX 360
 1. Connect the GL-MT1300 Power.
 
 2. Reset the GL-MT1300 by pressing and holding the reset button for **15 seconds** 
-![Reset the GL](documentation/resetButton.jpg | width=500)
+![Reset the GL](documentation/resetButton.jpg)
 
 3. Connect an external USB Network Adapter to the computer via USB. Connect a network cable from the USB Network Adapter to the GL-MT1300 **LAN** port.  ![Network Cable](documentation/networkCable.jpg)
 
