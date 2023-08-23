@@ -21,7 +21,7 @@ Z-Cam Controller for the SBX 360
 9. On the left menu, Select **More Settings**.
 10. Select **Network Mode**.
 11. Under **Switch Mode** select **WDS**. 
-12. Select the Network that you want to connect to. **Select the 5G version**  ![Network Mode](documentation/networkMode.png)
+12. Select the Network that you want to connect to. **Select the 5G version** 
 13. Click Apply. 
 14. If successful you should see a message with directions to access the router. Click Close. ![Network Mode](documentation/admin2.png)
 15. The **Network Connections** window should now show the same network for the USB Ethernet Adapter and the ethernet adaptor that is connected to the SBX Router. ![Network Connections](documentation/networkSettings2.png)
