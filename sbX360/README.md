@@ -6,4 +6,4 @@ Z-Cam Controller for the SBX 360
 
 Reset the GL
 
-![Reset the GL](/documentation/resetButton.jpg)
+![Reset the GL](documentation/resetButton.jpg)
