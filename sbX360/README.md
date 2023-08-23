@@ -3,7 +3,7 @@
 Z-Cam Controller for the SBX 360
 
 # Camera Connection
-
+This guide **requires** the use of a seperate USB Network Adaptor. This is **NOT** the adaptor that connects the computer to the SBX Router.
 1. Connect the GL-MT1300 Power.
 
 2. Reset the GL-MT1300 by pressing and holding the reset button for **15 seconds** 
